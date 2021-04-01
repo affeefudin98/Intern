@@ -14,6 +14,11 @@
                         </div>
                     @endif
 
+
+                <div>
+                    <h1>LARAVEL</h1>
+                </div>
+
                     {{ __('You are logged in!') }}
                 </div>
             </div>
